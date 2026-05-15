@@ -2,7 +2,7 @@
  *        File: git-lab-program.cc
  *      Author: Filip Trajkovski
  *        Date: May 15, 2026
- * Description: Add Description
+ * Description: program that outputs simple message 
  */
 
 #include <iostream>
